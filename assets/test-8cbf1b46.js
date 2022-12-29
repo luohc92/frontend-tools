@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as t}from"./index-bc954b28.js";const o={},c={class:"box p-all"};function r(n,_){return t(),s("div",c,"test")}const l=e(o,[["render",r],["__file","C:/Users/luohc/Documents/work/frontend-tools-box/src/views/test.vue"]]);export{l as default};
